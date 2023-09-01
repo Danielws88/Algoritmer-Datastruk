@@ -1,0 +1,3 @@
+﻿  Compulsory 1.cpp
+C:\Algorithms and Data Structures\Algoritmer-Datastruk\Compulsory 1\Compulsory 1\Compulsory 1.cpp(47): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  Compulsory 1.vcxproj -> C:\Algorithms and Data Structures\Algoritmer-Datastruk\Compulsory 1\x64\Debug\Compulsory 1.exe
